@@ -54,6 +54,7 @@ Kami terbuka untuk kerjasama dengan distributor, retailer, dan korporat di selur
 
 ---
 
+
 **Made with ❤️ in Indonesia**
 
 Terima kasih telah mengunjungi **KOPERINDO**! Kami bangga menjadi bagian dari perjalanan Anda. Mari bersama-sama menjelajahi dunia dengan koper berkualitas buatan Indonesia! 🇮🇩✨
