@@ -1,5 +1,5 @@
 <!--Banner-->
-![KOPERINDO Banner Image](./koperindo.gif)
+![KOPERINDO Banner Image](./koperindo (2).gif)
 <hr>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=FF6B35&width=500&height=28&lines=Welcome+to+KOPERINDO!+🧳;Indonesia's+Premium+Luggage+Manufacturer+✈️;Crafting+Quality+Travel+Companions+🌍;Innovation+in+Every+Journey+⭐;Trusted+by+Travelers+Nationwide+🚀;Let's+Travel+Together!+💼&center=true">
